@@ -1,3 +1,4 @@
-test: dev
-server:
-  port: 8089
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8082/eureka
