@@ -1,4 +1,4 @@
-foo: v5
+foo: v6
 eureka:
   client:
     service-url:
